@@ -1,0 +1,2 @@
+# quotes_generator
+  The Random Quotes Generator is a web application that utilizes PHP, HTML, CSS, and JavaScript to provide users with a unique and inspiring quote every time they refresh the page. With an elegant interface, the PHP script randomly selects a quote from a database or an array, while JavaScript dynamically updates the content without a full page refresh. The visually appealing design and potential inclusion of social sharing buttons enhance user engagement, making it an ideal tool for daily motivation and personal growth.
